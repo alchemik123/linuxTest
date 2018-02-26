@@ -9,13 +9,10 @@ package test;
  *
  * @author krzysiek
  */
-public class Test {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("ala ma kota");
+public class NewClass {
+    
+    public String tekst(){
+        return "ala";
     }
     
 }

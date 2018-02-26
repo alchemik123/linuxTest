@@ -16,6 +16,8 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("ala ma kota");
+        // TODO code application logic here
+        //zmiana
     }
     
 }

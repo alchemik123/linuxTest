@@ -18,6 +18,7 @@ public class Test {
         System.out.println("ala ma kota");
         // TODO code application logic here
         //zmiana
+        //nowy kawalek na innym branchu
     }
     
 }
